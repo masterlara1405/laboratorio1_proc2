@@ -1,0 +1,14 @@
+#+title:Archivo Tipo org-mode
+
+* Introduction
+
+Text of *Introduction*.
+
+* Section 1
+
+- Point 1 of section 1
+- Point 2 of section 1
+
+** Sub Section 1 of Section 1
+
+This is a subsection.
